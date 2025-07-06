@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+.env
+.venv/
+.git/
+venv/
+__pycache__/
+*.json
+Llama-3.1*
+outputs/
+workspace/
