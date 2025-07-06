@@ -1,0 +1,2 @@
+FROM llama3.1
+ADAPTER /home/robinwill/brian-intel/fine-tuning/Llama-3.1-8B-unsloth
