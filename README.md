@@ -36,4 +36,4 @@ ipython kernel install --user --name=venv
 jupyter notebook
 ```
 
-Follow steps in [Notebook](http://localhost:8888/)
+Follow steps in [Notebook](http://localhost:8888/doc/tree/Fine-Tuning-Tutorial.ipynb)
