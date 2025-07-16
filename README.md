@@ -1,13 +1,11 @@
-# LLM Fine Tuning
+# Generative AI Prompt Examples
 
-LLMs have become a powerful tool for applications but can have issues when moving into specific domains. To improve accuracy and performance it is common to fine tune a foundation model with your own dataset. The following jupyter notebook will go through the process of fine tuning a model using custom data. This includes generating training data and utilizing QLoRA for quick and flexible training.
+A key component of working effectively with Generative AI is prompt engineering. However, like any tool, its effectiveness depends on how well you can apply the tool. A key component of working effectively with Generative AI is creating effective prompts. 
+
+This notebook introduces foundational concepts in prompt engineering, including different prompt styles and their appropriate use cases. By the end, you will be equipped to select and apply the most effective prompt style for your specific application.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Brian-McGinn/Fine-Tuning-Tutorial/blob/Prompt_Tutorial/Prompt_Tutorial.ipynb)
 
-
-## Installing CUDA
-
-If running locally you will need to have pytorch and cuda installed. You can follow the [PyTorch setup steps](https://pytorch.org/get-started/locally/)
 
 ## Python virtual envrionment setup
 
