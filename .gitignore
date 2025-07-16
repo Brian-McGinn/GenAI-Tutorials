@@ -11,3 +11,5 @@ Llama-3.1*
 outputs/
 workspace/
 unsloth_compiled_cache/
+_unsloth_temporary_saved_buffers/
+llama.cpp/
