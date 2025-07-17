@@ -4,8 +4,9 @@ A key component of working effectively with Generative AI is prompt engineering.
 
 This notebook introduces foundational concepts in prompt engineering, including different prompt styles and their appropriate use cases. By the end, you will be equipped to select and apply the most effective prompt style for your specific application.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Brian-McGinn/Fine-Tuning-Tutorial/blob/Prompt_Tutorial/Prompt_Tutorial.ipynb)
+Use the collab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Brian-McGinn/Fine-Tuning-Tutorial/blob/Prompt_Tutorial/Prompt_Tutorial.ipynb)
 
+or Run locally by following the below steps.
 
 ## Python virtual envrionment setup
 
