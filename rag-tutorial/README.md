@@ -35,4 +35,4 @@ Follow Together AI [quickstart](https://docs.together.ai/docs/quickstart)
 jupyter notebook
 ```
 
-Follow steps in [Notebook](http://localhost:8888/doc/tree/RAG_Tutorial.ipynb)
+Follow steps in [Notebook](http://localhost:8888/notebooks/rag-tutorial/RAG_Tutorial.ipynb)
