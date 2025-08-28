@@ -6,3 +6,4 @@ Explore a collection of hands-on notebooks covering key concepts in Generative A
 > New tutorials are under construction, so check back often!
 
 ### [Prompt Engineering Styles](/prompt-tutorial/)
+### [Retrieval Augmented Generation (RAG)](/rag-tutorial/)
